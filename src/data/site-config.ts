@@ -1,5 +1,4 @@
 import avatar from '../assets/images/FotoPerfil.jpeg';
-import hero from 'https://youtu.be/ZNKpOuhdQxU';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
@@ -69,7 +68,7 @@ const siteConfig: SiteConfig = {
         title: 'Bienvendios a mi Portafolio',
         text: "Estudiante de Ingeniería de Sistemas con una pasión por la tecnología y un enfoque en el aprendizaje constante.",
         image: {
-            src: hero,
+            src: 'https://youtu.be/ZNKpOuhdQxU',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
