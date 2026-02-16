@@ -1,5 +1,5 @@
-import avatar from '../assets/images/avatar.jpg';
-import hero from '../assets/images/hero.jpg';
+import avatar from '../assets/images/FotoPerfil.jpeg';
+import hero from '../assets/images/FotoPerfil.jpeg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
@@ -17,11 +17,11 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Presentacion',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: 'Evidencias',
             href: '/projects'
         },
         {
@@ -66,8 +66,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: 'Bienvendios a mi Portafolio',
+        text: "Estudiante de Ingeniería de Sistemas con una pasión por la tecnología y un enfoque en el aprendizaje constante.",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
