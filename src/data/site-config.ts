@@ -67,14 +67,10 @@ const siteConfig: SiteConfig = {
     hero: {
         title: 'Bienvendios a mi Portafolio',
         text: "Estudiante de Ingeniería de Sistemas con una pasión por la tecnología y un enfoque en el aprendizaje constante.",
-        image: {
-            src: 'https://youtu.be/ZNKpOuhdQxU',
-            alt: 'A person sitting at a desk in front of a computer'
-        },
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'Video de Presentación',
+                href: 'https://youtu.be/ZNKpOuhdQxU'
             }
         ]
     },
