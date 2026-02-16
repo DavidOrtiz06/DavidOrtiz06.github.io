@@ -1,5 +1,5 @@
 import avatar from '../assets/images/FotoPerfil.jpeg';
-import hero from '../assets/images/FotoPerfil.jpeg';
+import hero from 'https://youtu.be/ZNKpOuhdQxU';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
